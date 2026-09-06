@@ -1,0 +1,7 @@
+{
+  "name": "Smart Mandi",
+  "description": "Advanced agricultural trading platform with gate entry, quality assaying, online bidding, weighment, invoicing, and logistics workflow.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
